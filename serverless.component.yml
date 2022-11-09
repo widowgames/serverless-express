@@ -1,7 +1,7 @@
 name: serverless-express
 version: 3.0.1
 author: juangiusti
-org: serverlessinc
+org: jgcodeait
 description: Deploys a serverless Express.js application onto AWS Lambda and AWS HTTP API.
 keywords: aws, serverless, express
 repo: https://github.com/juangiusti-codeait/serverless-express
