@@ -1,10 +1,10 @@
-name: serverless-express
+name: serverless-express-wg
 version: 3.0.1
-author: juangiusti
-org: jgcodeait
+author: widowgamesllc
+org: widowgamesllc
 description: Deploys a serverless Express.js application onto AWS Lambda and AWS HTTP API.
 keywords: aws, serverless, express
-repo: https://github.com/juangiusti-codeait/serverless-express
+repo: https://github.com/widowgames/serverless-express
 license: MIT
 main: ./src
 
